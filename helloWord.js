@@ -1,1 +1,1 @@
-console.log("Opa, fala aí meu consagrado")
+console.log("Opa, fala aí meu mundão")

@@ -1,0 +1,1 @@
+console.log("Opa, fala aí meu consagrado")
